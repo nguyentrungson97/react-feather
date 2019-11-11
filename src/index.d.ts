@@ -287,3 +287,5 @@ export const ZapOff: Icon;
 export const Zap: Icon;
 export const ZoomIn: Icon;
 export const ZoomOut: Icon;
+export const MessageGroup: Icon;
+export const Edit1: Icon;

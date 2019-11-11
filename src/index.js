@@ -278,3 +278,5 @@ export { default as ZapOff } from './icons/zap-off';
 export { default as Zap } from './icons/zap';
 export { default as ZoomIn } from './icons/zoom-in';
 export { default as ZoomOut } from './icons/zoom-out';
+export { default as MessageGroup } from './icons/message-group'
+export { default as Edit1 } from './icons/edit-1'
